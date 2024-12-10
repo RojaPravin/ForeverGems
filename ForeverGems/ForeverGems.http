@@ -1,0 +1,6 @@
+@ForeverGems_HostAddress = http://localhost:5191
+
+GET {{ForeverGems_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
